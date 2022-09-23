@@ -16,4 +16,4 @@ And I am currently learning:
 
 As an architect, I developed custom tools to automate tasks 🚀 (`RhinoPython`, Illustrator + `Javascript`, Google Spreadsheet + `JavaScript`) and improve the production workflow.
 
-Within the framework of the association MLAV.LAND, of which I am the co-founder, I also had the opportunity to experiment 🔍 with programmed systems (`Python`, `Arduino`, `Raspberry`) for the realization of artistic installations, and to produce web projects with artistic (`HTML`, `CSS`, `JS`) and documentary (`Airtable`, `Ruby on Rails`) purposes.
+Within the framework of the association [MLAV.LAND](http://www.mlav.land), of which I am the co-founder, I also had the opportunity to experiment 🔍 with programmed systems (`Python`, `Arduino`, `Raspberry`) for the realization of artistic installations, and to produce web projects with artistic (`HTML`, `CSS`, `JS`) and documentary (`Airtable`, `Ruby on Rails`) purposes.
