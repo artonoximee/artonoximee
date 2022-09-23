@@ -1,16 +1,19 @@
-### Hi there 👋
+I am a trained architect ✏️ with a few years of experience in the AEC (Architecture, Engineering and Construction) field.
 
-<!--
-**artonoximee/artonoximee** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I am currently becoming a front-end web developer 💻 I followed in 2019 the fullstack training of The Hacking Project, and have worked occasionally for individuals on web projects.
 
-Here are some ideas to get you started:
+I know :
+- `HTML`
+- `CSS` (& `Bootstrap`)
+- `Vanilla JS`
+- `Ruby on Rails`
+- `Git` and `GitHub`
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+And I am currently learning:
+- `React`
+- `SASS`
+- `Node.js`
+
+As an architect, I developed custom tools to automate tasks 🚀 (`RhinoPython`, Illustrator + `Javascript`, Google Spreadsheet + `JavaScript`) and improve the production workflow.
+
+Within the framework of the association MLAV.LAND, of which I am the co-founder, I also had the opportunity to experiment 🔍 with programmed systems (`Python`, `Arduino`, `Raspberry`) for the realization of artistic installations, and to produce web projects with artistic (`HTML`, `CSS`, `JS`) and documentary (`Airtable`, `Ruby on Rails`) purposes.
