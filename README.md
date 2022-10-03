@@ -1,6 +1,8 @@
 I am a trained architect ✏️ with a few years of experience in the AEC (Architecture, Engineering and Construction) field.
 
-I am currently becoming a front-end web developer 💻 I followed in 2019 the fullstack training of The Hacking Project, and have worked occasionally for individuals on web projects.
+I am currently becoming a front-end web developer 💻 
+
+I followed in 2019 the fullstack training of The Hacking Project, and have worked occasionally for individuals on web projects.
 
 I know :
 - `HTML`
