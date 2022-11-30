@@ -11,12 +11,10 @@
 ![Rails](https://img.shields.io/badge/rails-%23CC0000.svg?style=for-the-badge&logo=ruby-on-rails&logoColor=white)
 ![Firebase](https://img.shields.io/badge/Firebase-039BE5?style=for-the-badge&logo=Firebase&logoColor=white)
 
-I am a trained architect ✏️ with a few years of experience in the AEC (Architecture, Engineering and Construction) field, currently becoming a front-end web developer 💻 
+I am a trained architect ✏️ with a few years of experience in the AEC (Architecture, Engineering and Construction) field.
 
 I followed in 2019 the fullstack training of The Hacking Project, and have worked occasionally for individuals on web projects.
 
 As an architect, I developed custom tools to automate tasks 🚀 (**RhinoPython**, **Illustrator** + **Javascript**, **Google Spreadsheet** + **JavaScript**) and improve the production workflow.
 
 Within the framework of the association [MLAV.LAND](http://www.mlav.land), of which I am the co-founder, I also had the opportunity to experiment 🔍 with programmed systems (**Python**, **Arduino**, **Raspberry**) for the realization of artistic installations, and to produce web projects with artistic (**HTML**, **CSS**, **JS**) and documentary (**Airtable**, **Ruby on Rails**) purposes.
-
-I am currently learning **React** for specializing in front-end development.
